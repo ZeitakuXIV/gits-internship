@@ -1,0 +1,2 @@
+# kompleksitas
+kompleksitas = O(n), menerapkan sejenis linear search (loop 1 per 1) untuk menentukan apakah tanda kurung match atau tidak, kompleksitas ini dipengaruhi dengan berapa panjang input yang diberikan user
